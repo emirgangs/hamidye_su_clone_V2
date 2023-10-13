@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897019986195",
+    "project_id": "bloc-and-hamidye-app",
+    "storage_bucket": "bloc-and-hamidye-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897019986195:android:cd4c36062843c80af91ae6",
+        "android_client_info": {
+          "package_name": "com.example.bloc_try_example_17_09_2023"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSNde_p1SLUJa3EangWsSuMfNpigCEa8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
