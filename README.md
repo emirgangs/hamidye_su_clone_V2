@@ -5,4 +5,6 @@
 # **Application's İmages**
 ## **1- Empty Cart Screen**
 ![banner resmi](https://github.com/emirgangs/hamidye_su_clone_V2/blob/main/assets/app_image/chart_SC.PNG)
+## **2- Full Cart Screen**
+![banner resmi](https://github.com/emirgangs/hamidye_su_clone_V2/blob/main/assets/app_image/chart_SC2.PNG)
 
